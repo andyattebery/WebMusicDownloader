@@ -7,4 +7,9 @@
   <ItemGroup>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="NYoutubeDL" Version="0.10.8" />
+    <PackageReference Include="taglib" Version="2.1.0.0" />
+  </ItemGroup>
+
 </Project>
